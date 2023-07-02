@@ -1,0 +1,10 @@
+# Establish a conda environment
+
+Conda create -n p3.8 is first.
+Activate conda p3.8
+3. install conda python=3.8
+
+# Installing matlplotlib, pandas, and numpy conda 
+#install matlplotlib conda install qt install qt5 (for surface plot)
+
+Additionally, we are using a surface plot here, and we will store all the plots in the photos folder. 
